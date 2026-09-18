@@ -1,23 +1,35 @@
-# 🏦 NEXT BASKET
+# NEXT BASKET AI
 
-**NEXT BASKET AI** — the AI software platform that builds, hosts, and supports online stores. Live in hours, 0% commission, human support 7 days a week.
+**The AI software platform that builds, hosts, and supports online stores.**
 
----
-
-## 🚀 Our Platform
-
-- **Store Builder** — AI-assisted online store creation and launch in hours
-- **Hosting & Operations** — managed hosting, scaling, and store operations
-- **Odo Nord** — Odoo 19 Enterprise ERP hosting and management
-- **Integrations** — payments, logistics, marketing, and analytics tooling
+🌍 [nextbasket.com](https://nextbasket.com) · ✉️ [office@nextbasket.com](mailto:office@nextbasket.com)
 
 ---
 
-## 🌐 Quick Links
+## About
 
-- 🌍 **Website:** [nextbasket.com](https://nextbasket.com)
-- 📧 **Contact:** [office@nextbasket.com](mailto:office@nextbasket.com)
+NEXT BASKET AI builds your online store for you — typically live in under 3 hours —
+and keeps improving it: AI product descriptions, AI SEO, AI search, campaigns,
+24/7 chatbot, and a personal human consultant on BUSINESS and PRO plans.
+
+- **Platform:** microservices architecture, Kubernetes auto-scaling, Cloudflare edge + firewall
+- **Payments:** cards, cash on delivery, bank transfer — from day one
+- **Legal entity:** Next Basket Platform B.V. — KVK 84479493, Rotterdam, Netherlands
+
+## Follow us
+
+- 🐦 X: [twitter.com/nextbasketcom](https://twitter.com/nextbasketcom)
+- 💼 LinkedIn: [linkedin.com/company/nextbasket](https://www.linkedin.com/company/nextbasket)
+- 📘 Facebook: [facebook.com/NextBasketCo](https://www.facebook.com/NextBasketCo)
+- 📸 Instagram: [instagram.com/next.basket.company](https://www.instagram.com/next.basket.company)
+- ▶️ YouTube: [youtube.com/@next_basket](https://www.youtube.com/@next_basket)
+- 👽 Reddit: [reddit.com/r/NEXTBASKET](https://www.reddit.com/r/NEXTBASKET)
+
+## Links
+
+- Website: [nextbasket.com](https://nextbasket.com)
+- Security: [SECURITY.md](../SECURITY.md)
 
 ---
 
-**© 2026 NEXT BASKET | AI e-commerce platform**
+*Support: human engineers, 7 days a week — via the contact options on our website.*
